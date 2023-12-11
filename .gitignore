@@ -9,3 +9,12 @@
 *.vcxproj
 *.filters
 *.user
+PackageProcessing/ConsoleApplication1/.vs/ConsoleApplication1/v17/.suo
+*.tlog
+*.obj
+*.idb
+*.log
+*.recipe
+*.ilk
+*.pdb
+*.exe
