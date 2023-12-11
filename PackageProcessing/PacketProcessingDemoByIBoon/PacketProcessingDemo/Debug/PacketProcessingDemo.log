@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Capstone\PacketProcessingDemo\PacketProcessingDemo\main.cpp(21,2): warning C4091: 'typedef ': ignored on left of '_inputParameter' when no variable is declared
+D:\Capstone\PacketProcessingDemo\PacketProcessingDemo\main.cpp(25,2): warning C4091: 'typedef ': ignored on left of '_outputParameter' when no variable is declared
+  PacketProcessingDemo.vcxproj -> D:\Capstone\PacketProcessingDemo\Debug\PacketProcessingDemo.exe
