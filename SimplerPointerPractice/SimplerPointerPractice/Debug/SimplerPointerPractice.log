@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Capstone\TutorialTeamProject213\SimplerPointerPractice\SimplerPointerPractice\main.cpp(27,2): warning C4091: 'typedef ': ignored on left of 'packetStyle' when no variable is declared
+  SimplerPointerPractice.vcxproj -> D:\Capstone\TutorialTeamProject213\SimplerPointerPractice\Debug\SimplerPointerPractice.exe

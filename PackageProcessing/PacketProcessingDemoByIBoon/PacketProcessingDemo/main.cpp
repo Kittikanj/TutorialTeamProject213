@@ -54,6 +54,7 @@ public:
 
 Master master;
 
+
 int main() {
 	
 	std::cout << "Hello World" << std::endl;
@@ -62,6 +63,7 @@ int main() {
 
 	
 	((_outputParameter*)(&master.buffer))->xN1 = 0.5;
+	
 
 	while (true) {
 		sleep_for(nanoseconds(10));
